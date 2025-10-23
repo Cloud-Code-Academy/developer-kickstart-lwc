@@ -11,7 +11,7 @@ Throughout this repository, you'll cultivate a deeper understanding of:
 By mastering the basics of Lightning Web Components, you'll lay the foundation for creating intuitive, dynamic, and responsive Salesforce user interfaces. This knowledge solidifies your path in evolving as a full-stack Salesforce developer, ready to craft end-to-end solutions that captivate users and drive business results.
 
 ## Setup
-[Setup Overview](https://learn.cloudcodeacademy.com/courses/salesforce-developer-kickstart-program/lectures/47317682)
+[Setup Overview](https://courses.cloudcodeacademy.com/products/developer-kickstart-program/categories/2157601046/posts/2186996008)
 
 ## Setup Checklist
 1. Create/Configure a trailhead playground or developer org to do your work throughout this program.
